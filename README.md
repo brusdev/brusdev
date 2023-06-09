@@ -8,6 +8,7 @@ Domenico is from Naples where he works as a Senior Software Engineer at Red Hat 
 
 | Date | Summary | Resources |
 | :--- | :--- | :--- |
+| June 9, 2023 | Developing a Kubernetes Operator from zero to Hero at CNCF Naples | [slides](resources/developing-kubernetes-operator-slides.pdf), [sources](https://github.com/brusdev/hello-world-operator) |
 | October 22, 2022 | Event Streaming and Message Queues: which one should you use? at Linux Day Naples | [slides](resources/event-streaming-and-message-queues-slides.pdf), [video](https://www.youtube.com/watch?v=tdDQIadbS6Y) |
 | June 6, 2021 | Health Monitoring using ActiveMQ Artemis and Quarkus on OpenShift at Red Hat Developers Italy | [slides](resources/health-monitoring-slides.pdf), [sources](https://github.com/brusdev/health-monitoring) |
 | November 28, 2019 | Smart Solar Water Heating at IoT Day Italy | [slides](resources/smart-solar-water-heating-slides.pdf), [sources](https://github.com/brusdev/smart-solar-heating-system) |
