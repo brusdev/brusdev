@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/domenico-francesco-bruscino/)](https://www.linkedin.com/in/domenico-francesco-bruscino/)
 [![stackoverflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=StackOverflow&color=5b5b5b&labelColor=5b5b5b)](https://stackoverflow.com/users/6982270/domenico-francesco-bruscino)
 
-Domenico is from Naples where he works as a Senior Software Engineer at Red Hat on the messaging team. He is an Apache PMC member of ActiveMQ and a maintainer of ArtemiCloud.io, a project for running Apache ActiveMQ Artemis on Kubernetes using operators. He has more than 15 years of experience with software design, development and integration. In his spare time, Domenico enjoys hacking cheap connected devices and traveling.
+Domenico is from Naples where he works as a Principal Senior Software Engineer at IBM on the messaging team. He is an Apache PMC member of ActiveMQ and a maintainer of ArkMQ.org, a project for running Apache ActiveMQ Artemis on Kubernetes using operators. He has more than 20 years of experience with software design, development and integration. In his spare time, Domenico enjoys hacking cheap connected devices and traveling.
 
 ### Latest talks and videos
 
