@@ -8,6 +8,7 @@ Domenico is from Naples where he works as a Principal Senior Software Engineer a
 
 | Date | Summary | Resources |
 | :--- | :--- | :--- |
+| October 25, 2025 | Impact of AI on Open Source projects at Linux Day Naples | [slides](resources/impact-of-ai-on-open-source-projects.pdf) |
 | October 28, 2023 | Is Open Source ready for Generative AI? at Linux Day Naples | [slides](resources/is-open-source-ready-for-generative-ai-slides.pdf), [video](https://www.youtube.com/watch?v=QLYtS6kpNnE&t=10130s) |
 | June 9, 2023 | Developing a Kubernetes Operator from zero to Hero at CNCF Naples | [slides](resources/developing-kubernetes-operator-slides.pdf), [sources](https://github.com/brusdev/hello-world-operator) |
 | October 22, 2022 | Event Streaming and Message Queues: which one should you use? at Linux Day Naples | [slides](resources/event-streaming-and-message-queues-slides.pdf), [video](https://www.youtube.com/watch?v=tdDQIadbS6Y) |
